@@ -1,0 +1,14 @@
+ffmpeg-python
+imageio
+# runtime
+numpy
+piexif
+Pillow
+
+# tests (optional)
+pytest-shutil
+requests
+wxPython
+
+# NOTE: 需要系统里有 FFmpeg 可执行文件；建议：
+# conda install -c conda-forge ffmpeg
